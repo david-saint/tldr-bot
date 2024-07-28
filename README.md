@@ -6,8 +6,8 @@ A Twitter bot that summarizes tweet threads into concise TL;DR bullet points usi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/david-saint/tldr_bot.git
-    cd tldr_bot
+    git clone https://github.com/david-saint/tldr-bot.git
+    cd tldr-bot
     ```
 
 2. **Create and activate a virtual environment**:
